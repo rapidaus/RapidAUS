@@ -2,7 +2,7 @@
 
 I'm Rapid. The Owner / Lead Developer of sidewaygaming
 
-## ☕ Wanna chat?
+### ☕ Wanna chat?
 
 <p>
     <a href="https://discordapp.com/users/637958967011704832/">
