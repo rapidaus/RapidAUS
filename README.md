@@ -2,6 +2,19 @@
 
 I'm Rapid. The Owner / Lead Developer of sidewaygaming
 
+### ☕ Wanna chat?
+
+<p>
+    <a href="https://discordapp.com/users/637958967011704832/">
+        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Rapid%235960"/>
+    </a>
+    <a href="https://www.twitch.tv/rapidaus/">
+        <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=twitch&logoColor=white&color=%239146FF&label=&message=RapidAUS"/>
+    </a>
+</p>
+
+<hr>
+
 ## SideWayGaming [Discord]
 [![Developer Discord](https://discord.com/api/guilds/690114517107212333/widget.png?style=banner4)](https://discord.gg/CYqP6FgfcE)
 
@@ -13,14 +26,3 @@ I'm Rapid. The Owner / Lead Developer of sidewaygaming
 ## Information
 
 Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
-
-### ☕ Wanna chat?
-
-<p>
-    <a href="https://discordapp.com/users/289112759948410881/">
-        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Rapid%235960"/>
-    </a>
-    <a href="https://www.twitch.tv/rapidaus/">
-        <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=twitch&logoColor=white&color=%239146FF&label=&message=RapidAUS"/>
-    </a>
-</p>
