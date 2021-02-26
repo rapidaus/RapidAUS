@@ -13,6 +13,10 @@ I'm Rapid. The Owner / Lead Developer of sidewaygaming
     </a>
 </p>
 
+## Information
+
+Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
+
 <hr>
 
 ## SideWayGaming [Discord]
@@ -22,7 +26,3 @@ I'm Rapid. The Owner / Lead Developer of sidewaygaming
 [![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/rapidaus)
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](http://twitter.com/RapidOceanic)
 [![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](sidewaygamingrp@gamil.com)
-
-## Information
-
-Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
