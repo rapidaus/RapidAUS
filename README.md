@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 🌌
 
-<!--
-**RapidAUS/RapidAUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rapid. The Owner / Lead Developer of sidewaygaming
 
-Here are some ideas to get you started:
+## SideWayGaming [Discord]
+[![Developer Discord](https://discord.com/api/guilds/690114517107212333/widget.png?style=banner4)](https://discord.gg/CYqP6FgfcE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+[![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/rapidaus)
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](http://twitter.com/RapidOceanic)
+[![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](sidewaygamingrp@gamil.com)
+
+## Information
+
+Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
+
+### ☕ Wanna chat?
+
+<p>
+    <a href="https://discordapp.com/users/289112759948410881/">
+        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Rapid%235960"/>
+    </a>
+    <a href="https://www.twitch.tv/rapidaus/">
+        <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=twitch&logoColor=white&color=%239146FF&label=&message=RapidAUS"/>
+    </a>
+</p>
