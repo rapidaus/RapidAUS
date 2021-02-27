@@ -19,10 +19,8 @@ Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
 
 <hr>
 
-## SideWayGaming [Discord]
+## SideWay / Aspire [Discords]
 [![Developer Discord](https://discord.com/api/guilds/690114517107212333/widget.png?style=banner4)](https://discord.gg/CYqP6FgfcE)
-
-## Aspire Gaming [Discord]
 [![Developer Discord](https://discord.com/api/guilds/805369491805437962/widget.png?style=banner4)](https://discord.gg/9p9ZAxpeUQ)
 
 <hr>
