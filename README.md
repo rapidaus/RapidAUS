@@ -27,4 +27,4 @@ Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
 ## Socials
 [![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/rapidaus)
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](http://twitter.com/RapidOceanic)
-[![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](sidewaygamingrp@gamil.com)
+[![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](support@aspiregaming.net)
