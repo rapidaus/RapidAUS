@@ -1,6 +1,6 @@
 # Hi there! 🌌
 
-I'm Rapid. The Owner / Lead Developer of Sidewaygaming and Aspire Gaming
+I'm Rapid. An Owner / Lead Developer At Aspire Gaming
 
 ### ☕ Wanna chat?
 
@@ -19,8 +19,7 @@ Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
 
 <hr>
 
-## SideWay / Aspire [Discords]
-[![Developer Discord](https://discord.com/api/guilds/690114517107212333/widget.png?style=banner4)](https://discord.gg/CYqP6FgfcE)
+## Aspire
 [![Developer Discord](https://discord.com/api/guilds/805369491805437962/widget.png?style=banner4)](https://discord.gg/9p9ZAxpeUQ)
 
 <hr>
