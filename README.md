@@ -1,6 +1,6 @@
 # Hi there! 🌌
 
-I'm Rapid. An Owner / Lead Developer At Aspire Gaming
+I'm Rapid. The Owner of Azure Gaming
 
 ### ☕ Wanna chat?
 
@@ -20,7 +20,7 @@ Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
 <hr>
 
 ## Aspire
-[![Developer Discord](https://discord.com/api/guilds/805369491805437962/widget.png?style=banner4)](https://discord.gg/9p9ZAxpeUQ)
+[![Developer Discord](https://discord.com/api/guilds/805369491805437962/widget.png?style=banner4)](https://discord.gg/azuregaming)
 
 <hr>
 
