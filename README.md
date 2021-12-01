@@ -19,12 +19,11 @@ Fluent in 💾: Javascript, Typescript, Lua, PHP, SQL, HTML, CSS
 
 <hr>
 
-## Aspire
-[![Developer Discord](https://discord.com/api/guilds/805369491805437962/widget.png?style=banner4)](https://discord.gg/azuregaming)
+## Azure Gaming
+[![Developer Discord](https://discord.com/api/guilds/914774414032252938/widget.png?style=banner3)](https://discord.gg/azuregaming)
 
 <hr>
 
 ## Socials
 [![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/rapidaus)
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](http://twitter.com/RapidOceanic)
-[![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](support@aspiregaming.net)
